@@ -1,0 +1,41 @@
+.Counter {
+    background-color: #192a56;
+    padding: 10px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .Counter .Controls .Button {
+    background-color: #ccc;
+    color: #333;
+    padding: 5px 10px;
+    border: none;
+    border-bottom: 4px solid #999;
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .Counter .Controls .Button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .Counter .Controls .Number {
+    margin: 0;
+    font-size: 20px;
+    text-align: left;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .Counter .Controls .Number:hover {
+    transform: scale(1.09);
+  }
+  
+  .Counter .Button[disabled] {
+    /* Estilos para el botón deshabilitado (cuando no hay stock) */
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+  
