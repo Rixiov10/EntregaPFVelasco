@@ -3,10 +3,18 @@
     padding: 10px;
     color: #fff;
     display: flex;
-    justify-content: space-between;
+    flex-direction: column; 
+    justify-content: center; 
     align-items: center;
   }
   
+  .Counter .Controls {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+  }
+
   .Counter .Controls .Button {
     background-color: #ccc;
     color: #333;
@@ -34,7 +42,6 @@
   }
   
   .Counter .Button[disabled] {
-    /* Estilos para el botón deshabilitado (cuando no hay stock) */
     opacity: 0.6;
     cursor: not-allowed;
   }

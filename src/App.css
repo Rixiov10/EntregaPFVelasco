@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-nav {
+/* nav {
   background-color: #192a56;
   padding: 10px;
   color: #fff;
@@ -15,11 +15,11 @@ h2 {
   margin: 0;
   font-size: 20px;
   text-align: left;
-  transition: transform 0.3s ease-in-out; /* Transición suave */
+  transition: transform 0.3s ease-in-out; 
 }
 
 h2:hover {
-  transform: scale(1.09); /* Aumenta el tamaño en un 5% */
+  transform: scale(1.09);
 }
 
 button {
@@ -34,4 +34,4 @@ button {
 button:hover {
   transform: translateY(-2px);
   box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
-}
+} */
