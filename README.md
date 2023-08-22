@@ -12,7 +12,8 @@
 ## Capturas de Pantalla
 <img width="1229" alt="Captura de pantalla 2023-08-21 a la(s) 22 46 35" src="https://github.com/Rixiov10/EntregaPFVelasco/assets/126209314/04e9977f-4c5f-438c-a0d4-a681de48248b">
 
-<img width="1232" alt="image" src="https://github.com/Rixiov10/EntregaPFVelasco/assets/126209314/ed9d1664-7d29-4026-8c3d-39a378ef57a6">
+<img width="1207" alt="Captura de pantalla 2023-08-21 a la(s) 22 50 34" src="https://github.com/Rixiov10/EntregaPFVelasco/assets/126209314/e44c3fa9-b6b8-451f-b152-648eb24527e0">
+
 
 
 ## Instalación
