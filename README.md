@@ -12,11 +12,12 @@
 ## Capturas de Pantalla
 <img width="1229" alt="Captura de pantalla 2023-08-21 a la(s) 22 46 35" src="https://github.com/Rixiov10/EntregaPFVelasco/assets/126209314/04e9977f-4c5f-438c-a0d4-a681de48248b">
 
+<img width="1232" alt="image" src="https://github.com/Rixiov10/EntregaPFVelasco/assets/126209314/ed9d1664-7d29-4026-8c3d-39a378ef57a6">
 
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local usando `git clone https://github.com/tu-usuario/e-commerce-videojuegos.git`
+1. Clona este repositorio en tu máquina local usando `git clone (https://github.com/Rixiov10/EntregaPFVelasco/edit/main/README.md#:~:text=Breadcrumbs-,EntregaPFVelasco,-/)`
 2. Navega al directorio del proyecto con `cd e-commerce-videojuegos`
 3. Instala las dependencias usando `npm install`
 
