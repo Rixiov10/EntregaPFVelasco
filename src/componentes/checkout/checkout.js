@@ -21,7 +21,7 @@ const Checkout = () => {
         addDoc(pedidosRef, pedido)
             .then((doc) => {
                 setPedidoId(doc.id);
-                clearCart(); // Use clearCart from context instead of vaciarCarrito
+                clearCart();
             });
     }
 
